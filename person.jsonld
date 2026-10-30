@@ -1,0 +1,54 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "https://orcid.org/0000-0001-8384-1611",
+  "name": "Jui-Hong Chien",
+  "givenName": "Jui-Hong",
+  "familyName": "Chien",
+  "alternateName": [
+    "簡睿宏",
+    "Jui-Hong Chien, Ph.D.",
+    "Vic Chien",
+    "J. H. Chien"
+  ],
+  "description": "Biomedical engineer and neuroscience researcher working on EEG analysis: seizure detection and prediction, human electrophysiology of pain and conditioned fear, and functional neuroimaging of socio-cultural decision-making.",
+  "url": "https://vicquana.github.io/",
+  "identifier": {
+    "@type": "PropertyValue",
+    "propertyID": "ORCID",
+    "value": "0000-0001-8384-1611",
+    "url": "https://orcid.org/0000-0001-8384-1611"
+  },
+  "sameAs": [
+    "https://orcid.org/0000-0001-8384-1611",
+    "https://scholar.google.com/citations?user=F9vlBhoAAAAJ",
+    "https://www.researchgate.net/profile/Jui-Hong-Chien",
+    "https://sites.google.com/view/jui-hong-chien-cv/home",
+    "https://vicquana.github.io/",
+    "https://www.linkedin.com/in/jui-hong-chien-9315772b/"
+  ],
+  "jobTitle": "Biomedical engineer and neuroscience researcher",
+  "alumniOf": [
+    {
+      "@type": "CollegeOrUniversity",
+      "name": "University of Florida",
+      "description": "Ph.D. 2011, M.S. 2007, Biomedical Engineering"
+    },
+    {
+      "@type": "CollegeOrUniversity",
+      "name": "National Taiwan University",
+      "description": "B.S. 2003, Civil Engineering"
+    }
+  ],
+  "knowsAbout": [
+    "electroencephalography",
+    "epilepsy",
+    "seizure prediction",
+    "pain",
+    "fear conditioning",
+    "deep brain stimulation",
+    "thalamus",
+    "functional MRI",
+    "power distance"
+  ]
+}

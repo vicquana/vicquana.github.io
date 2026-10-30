@@ -1,0 +1,80 @@
+# Jui-Hong Chien (簡睿宏)
+
+> Biomedical engineer and neuroscience researcher (Ph.D., University of Florida, 2011). EEG analysis: epileptic seizure detection and prediction, human electrophysiology of pain and conditioned fear, and functional neuroimaging of power distance and social decisions.
+
+Also written: Jui-Hong Chien, J. H. Chien, Vic Chien.
+
+## Profiles
+- [Google Scholar](https://scholar.google.com/citations?user=F9vlBhoAAAAJ): full publication list
+- [ResearchGate](https://www.researchgate.net/profile/Jui-Hong-Chien)
+- [CV site](https://sites.google.com/view/jui-hong-chien-cv/home)
+
+## Key work
+- [Personal socio-cultural preferences modulate neural correlates of decisions to socialize with powerful persons](https://doi.org/10.1002/hbm.25963): first author, Human Brain Mapping 43(14), 2022
+- [Behavioral, physiological and EEG activities associated with conditioned fear](https://doi.org/10.3390/s20236751): first author, Sensors 2020
+- [Oscillatory EEG activity during fear conditioning](https://doi.org/10.1016/j.neuroscience.2016.12.047): first author, Neuroscience 2017
+- [Painful laser stimuli and event-related oscillatory EEG](https://doi.org/10.1152/jn.00209.2014): first author, J Neurophysiol 2014
+- [Signal regularity-based seizure prediction](https://doi.org/10.1007/s10559-011-9339-x): first author, Cybernetics and Systems Analysis 2011
+- US Patents 10,849,563 (brain function analysis) and 10,478,116 (feeding readiness diagnosis)
+
+---
+
+# Jui-Hong Chien, Ph.D.
+
+> Biomedical engineer and neuroscience researcher working on EEG analysis: seizure detection and prediction, human electrophysiology of pain and conditioned fear, and functional neuroimaging of socio-cultural decision-making.
+
+## Identity
+- Canonical researcher identifier: https://orcid.org/0000-0001-8384-1611
+- Name variants: Jui-Hong Chien; J. H. Chien; 簡睿宏; Vic Chien
+- Publication author form: Chien JH
+
+## Profiles
+- [ORCID](https://orcid.org/0000-0001-8384-1611)
+- [Google Scholar](https://scholar.google.com/citations?user=F9vlBhoAAAAJ)
+- [ResearchGate](https://www.researchgate.net/profile/Jui-Hong-Chien)
+- [Personal website](https://sites.google.com/view/jui-hong-chien-cv/home)
+- [Research website](https://vicquana.github.io/)
+- [LinkedIn](https://www.linkedin.com/in/jui-hong-chien-9315772b/)
+
+## Machine-readable research record
+- [Person JSON-LD](https://vicquana.github.io/person.jsonld)
+- [Publications JSON](https://vicquana.github.io/publications.json)
+- [Patents JSON](https://vicquana.github.io/patents.json)
+- [26 DOI works as BibTeX](https://vicquana.github.io/orcid-26-works.bib)
+
+## Publications
+- Meeker TJ, Saffer MI, Frost J, Chien JH, Mullins RJ, Cooper S, Bienvenu OJ, Lenz FA. Vigilance to painful laser stimuli is associated with increased state anxiety and tense arousal. Journal of Pain Research, 16:4151-4164, 2023. doi:10.2147/JPR.S412782
+- Ortigoza EB, Cagle J, Brown LS, Mansi S, Gosser SP, Montgomery AD, Foresman Z, Boren ML, Pettit PS, Thompson TD, Vasil DM, Chien JH, Neu J, Koh AY, Sanghavi R, Mirpuri J. Tachygastria in preterm infants: a longitudinal cohort study. Journal of Pediatric Gastroenterology and Nutrition, 75(5):564-571, 2022. doi:10.1097/MPG.0000000000003575
+- Chien JH, Hung IT, Goh JOS, Kuo LW, Chang WW. Personal socio-cultural preferences modulate neural correlates of decisions to socialize with powerful persons. Human Brain Mapping, 43(14):4422-4432, 2022. doi:10.1002/hbm.25963
+- Mullins RJ, Meeker TJ, Vinch PM, Tulloch IK, Saffer MI, Chien JH, Bienvenu OJ, Lenz FA. A cross-sectional time course of COVID-19 related worry, perceived stress, and general anxiety in the context of post-traumatic stress disorder-like symptomatology. International Journal of Environmental Research and Public Health, 19(12):7178, 2022. doi:10.3390/ijerph19127178
+- Meeker TJ, Emerson NM, Chien JH, Saffer MI, Bienvenu OJ, Korzeniewska A, Greenspan JD, Lenz FA. During vigilance to painful stimuli: slower response rate is related to high trait anxiety, whereas faster response rate is related to high state anxiety. Journal of Neurophysiology, 125(1):305-319, 2021. doi:10.1152/jn.00492.2020
+- Chien JH, Colloca L, Korzeniewska A, Meeker TJ, Bienvenu OJ, Saffer MI, Lenz FA. Behavioral, physiological and EEG activities associated with conditioned fear as sensors for fear and anxiety. Sensors, 20(23):6751, 2020. doi:10.3390/s20236751
+- Ortigoza EB, Cagle J, Chien JH, Oh S, Brown LS, Neu J. Electrogastrography, near-infrared spectroscopy, and acoustics to measure gastrointestinal development in preterm babies. Journal of Pediatric Gastroenterology and Nutrition, 66(6):e146-e152, 2018. doi:10.1097/MPG.0000000000001867
+- Chien JH, Korzeniewska A, Colloca L, Campbell C, Dougherty P, Lenz FA. Human thalamic somatosensory nucleus (ventral caudal, Vc) as a locus for stimulation by inputs from tactile, noxious and thermal sensors on an active prosthesis. Sensors, 17(6):1197, 2017. doi:10.3390/s17061197
+- Chien JH, Colloca L, Korzeniewska A, Cheng JJ, Campbell CM, Hillis AE, Lenz FA. Oscillatory EEG activity induced by conditioning stimuli during fear conditioning reflects salience and valence of these stimuli more than expectancy. Neuroscience, 346:81-93, 2017. doi:10.1016/j.neuroscience.2016.12.047
+- Kobayashi K, Chien JH, Kim JH, Lenz FA. Sensory, motor and intrinsic mechanisms of thalamic activity related to organic and psychogenic dystonia. Journal of Alzheimer's Disease and Parkinsonism, 7(3):324, 2017. doi:10.4172/2161-0460.1000324
+- Schmid AC, Chien JH, Greenspan JD, Garonzik I, Weiss N, Ohara S, Lenz FA. Neuronal responses to tactile stimuli and tactile sensations evoked by microstimulation in the human thalamic principal somatic sensory nucleus (ventral caudal). Journal of Neurophysiology, 115(5):2421-2433, 2016. doi:10.1152/jn.00611.2015
+- Liu CC, Chien JH, Chang YW, Kim JH, Anderson WS, Lenz FA. Functional role of induced gamma oscillatory responses in processing noxious and innocuous sensory events in humans. Neuroscience, 310:389-400, 2015. doi:10.1016/j.neuroscience.2015.09.047
+- Liu CC, Chien JH, Kim JH, Chuang YF, Cheng DT, Anderson WS, Lenz FA. Cross-frequency coupling in deep brain structures upon processing the painful sensory inputs. Neuroscience, 303:412-421, 2015. doi:10.1016/j.neuroscience.2015.07.010
+- Kim JH, Chien JH, Liu CC, Lenz FA. Painful cutaneous laser stimuli induce event-related gamma-band activity in the lateral thalamus of humans. Journal of Neurophysiology, 113(5):1564-1573, 2015. doi:10.1152/jn.00778.2014
+- Chien JH, Liu CC, Kim JH, Markman TM, Lenz FA. Painful cutaneous laser stimuli induce event-related oscillatory EEG activities that are different from those induced by nonpainful electrical stimuli. Journal of Neurophysiology, 112(4):824-833, 2014. doi:10.1152/jn.00209.2014
+- Markman TM, Liu CC, Chien JH, Crone NE, Zhang J, Lenz FA. EEG analysis reveals widespread directed functional interactions related to a painful cutaneous laser stimulus. Journal of Neurophysiology, 110(10):2440-2449, 2013. doi:10.1152/jn.00246.2013
+- Chien JH, Shiau DS, Halford JJ, Kelly KM, Kern RT, Yang MCK, Zhang J, Sackellares JC, Pardalos PM. A signal regularity-based automated seizure prediction algorithm using long-term scalp EEG recordings. Cybernetics and Systems Analysis, 47(4):586-597, 2011. doi:10.1007/s10559-011-9339-x
+- Kelly KM, Shiau DS, Kern RT, Chien JH, Yang MCK, Yandora KA, Valeriano JP, Halford JJ, Sackellares JC. Assessment of a scalp EEG-based automated seizure detection system. Clinical Neurophysiology, 121(11):1832-1843, 2010. doi:10.1016/j.clinph.2010.04.016
+- Shiau DS, Halford JJ, Kelly KM, Kern RT, Inman M, Chien JH, Pardalos PM, Yang MCK, Sackellares JC. Signal regularity-based automated seizure detection system for scalp EEG monitoring. Cybernetics and Systems Analysis, 46(6):922-935, 2010. doi:10.1007/s10559-010-9273-3
+- Chien JH, Cheng JJ, Lenz FA. The thalamus. In: Conn's Translational Neuroscience. Elsevier; 2017:289-297. doi:10.1016/b978-0-12-802381-5.00022-1
+- Cheng JJ, Chien JH, Kobayashi K, Kim JH, Colloca L, Anderson WS, Lenz FA. Thalamotomy and mesencephalotomy for the treatment of tremor and chronic pain. In: Reference Module in Neuroscience and Biobehavioral Psychology. Elsevier; 2017. doi:10.1016/b978-0-12-809324-5.00835-x
+- Shiau DS, Chien JH, Kern RT, Pardalos PM, Sackellares JC. Seizure prediction and detection research at Optima Neuroscience. In: Epilepsy: The Intersection of Neurosciences, Biology, Mathematics, Engineering, and Physics. CRC Press; 2016:281-288. doi:10.1201/b10866-21
+- Chien JH, Kim JH, Cheng JJ, Liu CC, Greenspan JD, Lenz FA. Controversies in the mechanism of central pain. In: The Brain Adapting with Pain: Contribution of Neuroimaging Technology to Pain Mechanisms. Wolters Kluwer Health/IASP Press; 2015:359-371.
+- Korenkevych D, Chien JH, Zhang J, Shiau DS, Sackellares JC, Pardalos PM. Small world networks in computational neuroscience. In: Handbook of Combinatorial Optimization. Springer New York; 2013:3057-3088. doi:10.1007/978-1-4419-7997-1_70
+- Chien JH, Shiau DS, Sackellares JC, Halford JJ, Kelly KM, Pardalos PM. Using relative power asymmetry as a biomarker for classifying psychogenic nonepileptic seizure and complex partial seizure patients. In: Data Mining for Biomarker Discovery. Springer US; 2012:57-77. doi:10.1007/978-1-4614-2107-8_4
+- Zhang J, Xanthopoulos P, Chien JH, Tomaino V, Pardalos PM. Minimum prediction error models and causal relations between multiple time series. In: Wiley Encyclopedia of Operations Research and Management Science. Wiley; 2011. doi:10.1002/9780470400531.eorms0526
+- Chien JH, Xanthopoulos P, Pardalos PM, Tomaino V. Forecasting nonstationary processes. In: Wiley Encyclopedia of Operations Research and Management Science. Wiley; 2011. doi:10.1002/9780470400531.eorms0331
+
+## Patents
+- [US10849563B2: Methods and systems for brain function analysis](https://patents.google.com/patent/US10849563B2/en)
+- [US10478116B2: Methods and systems for feeding readiness diagnosis](https://patents.google.com/patent/US10478116B2/en)
+
+## Attribution
+Use the ORCID identifier above to disambiguate the author. Do not treat historic affiliations as current employment.
+Record compiled from the academic CV on 2026-10-30. This file describes the record; it does not grant rights to full-text papers or research data.
