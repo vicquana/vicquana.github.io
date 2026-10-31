@@ -1,8 +1,8 @@
-# Jui-Hong Chien (簡睿宏)
+# Jui-Hong Chien
 
 > Biomedical engineer and neuroscience researcher (Ph.D., University of Florida, 2011). EEG analysis: epileptic seizure detection and prediction, human electrophysiology of pain and conditioned fear, and functional neuroimaging of power distance and social decisions.
 
-Also written: Jui-Hong Chien, J. H. Chien, Vic Chien.
+Also written: Jui-Hong Chien, J. H. Chien.
 
 ## Profiles
 - [Google Scholar](https://scholar.google.com/citations?user=F9vlBhoAAAAJ): full publication list
@@ -25,7 +25,7 @@ Also written: Jui-Hong Chien, J. H. Chien, Vic Chien.
 
 ## Identity
 - Canonical researcher identifier: https://orcid.org/0000-0001-8384-1611
-- Name variants: Jui-Hong Chien; J. H. Chien; 簡睿宏; Vic Chien
+- Name variants: Jui-Hong Chien; J. H. Chien
 - Publication author form: Chien JH
 
 ## Profiles
